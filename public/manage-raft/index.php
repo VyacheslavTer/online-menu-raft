@@ -226,6 +226,20 @@ if ($action === 'settings') {
             <label>Telegram<input type="text" inputmode="url" name="telegram_url" placeholder="https://t.me/..." value="<?= e($allSettings['telegram_url'] ?? '') ?>"></label>
             <label>WhatsApp<input type="text" inputmode="url" name="whatsapp_url" placeholder="https://wa.me/..." value="<?= e($allSettings['whatsapp_url'] ?? '') ?>"></label>
 
+            <h2>Почта для восстановления</h2>
+            <p class="form-hint">Если письма не приходят через хостинг, включите SMTP и укажите данные почтового ящика.</p>
+            <label class="checkbox-row">
+                <input type="checkbox" name="smtp_enabled" value="1"<?= checked($allSettings['smtp_enabled'] ?? '') ?>>
+                <span>Отправлять через SMTP</span>
+            </label>
+            <div class="form-grid">
+                <label>SMTP сервер<input name="smtp_host" placeholder="smtp.mail.ru" value="<?= e($allSettings['smtp_host'] ?? '') ?>"></label>
+                <label>Порт<input name="smtp_port" inputmode="numeric" placeholder="465" value="<?= e($allSettings['smtp_port'] ?? '587') ?>"></label>
+                <label>Логин SMTP<input name="smtp_username" value="<?= e($allSettings['smtp_username'] ?? '') ?>" autocomplete="username"></label>
+                <label>Пароль SMTP<input type="password" name="smtp_password" value="<?= e($allSettings['smtp_password'] ?? '') ?>" autocomplete="new-password"></label>
+                <label>Email отправителя<input type="email" name="smtp_from_email" placeholder="name@example.com" value="<?= e($allSettings['smtp_from_email'] ?? '') ?>"></label>
+                <label>Имя отправителя<input name="smtp_from_name" value="<?= e($allSettings['smtp_from_name'] ?? 'raft menu') ?>"></label>
+            </div>
             <?php $adminUser = $auth->user(); ?>
             <h2>Доступ в админку</h2>
             <p class="form-hint">Email и пароль меняются в базе. Пароль из <code>config.local.php</code> нужен только при первом создании админа.</p>
@@ -333,7 +347,7 @@ function request_password_reset(PDO $pdo, string $email): void
         'expires_at' => $expiresAt,
     ]);
 
-    send_password_reset_email((string) $user['email'], admin_absolute_url('?action=reset-password&token=' . urlencode($token)));
+    send_password_reset_email($pdo, (string) $user['email'], admin_absolute_url('?action=reset-password&token=' . urlencode($token)));
 }
 
 function reset_password_with_token(PDO $pdo, string $token, string $password, string $passwordConfirm): void
@@ -382,18 +396,94 @@ function admin_absolute_url(string $query = ''): string
     return $scheme . '://' . $host . '/manage-raft/' . ltrim($query, '?');
 }
 
-function send_password_reset_email(string $email, string $url): void
+function send_password_reset_email(PDO $pdo, string $email, string $url): void
 {
+    $settings = new Settings($pdo);
     $subject = 'Восстановление пароля raft';
     $body = "Здравствуйте.\n\nДля восстановления пароля администратора откройте ссылку:\n" . $url . "\n\nСсылка действует один час. Если вы не запрашивали восстановление, просто игнорируйте это письмо.\n";
+
+    if ($settings->get('smtp_enabled') === '1') {
+        smtp_send($settings, $email, $subject, $body);
+        return;
+    }
+
     $headers = [
         'Content-Type: text/plain; charset=UTF-8',
         'From: raft menu <noreply@' . preg_replace('/^www\./', '', (string) ($_SERVER['HTTP_HOST'] ?? 'localhost')) . '>',
     ];
 
     if (!mail($email, $subject, $body, implode("\r\n", $headers))) {
-        throw new RuntimeException('Не удалось отправить письмо. Проверьте почту на хостинге или SMTP.');
+        throw new RuntimeException('Не удалось отправить письмо. Настройте SMTP в админке.');
     }
+}
+
+function smtp_send(Settings $settings, string $to, string $subject, string $body): void
+{
+    $host = trim($settings->get('smtp_host'));
+    $port = (int) ($settings->get('smtp_port', '587') ?: 587);
+    $username = trim($settings->get('smtp_username'));
+    $password = $settings->get('smtp_password');
+    $fromEmail = trim($settings->get('smtp_from_email', $username));
+    $fromName = trim($settings->get('smtp_from_name', 'raft menu'));
+    if ($host === '' || $username === '' || $password === '' || $fromEmail === '') {
+        throw new RuntimeException('SMTP включен, но заполнены не все настройки почты.');
+    }
+
+    $remote = ($port === 465 ? 'ssl://' : 'tcp://') . $host . ':' . $port;
+    $socket = @stream_socket_client($remote, $errno, $errstr, 15, STREAM_CLIENT_CONNECT);
+    if (!$socket) {
+        throw new RuntimeException('Не удалось подключиться к SMTP: ' . $errstr);
+    }
+    stream_set_timeout($socket, 15);
+    smtp_expect($socket, 220);
+    smtp_cmd($socket, 'EHLO ' . ($_SERVER['HTTP_HOST'] ?? 'localhost'), 250);
+    if ($port !== 465) {
+        smtp_cmd($socket, 'STARTTLS', 220);
+        if (!stream_socket_enable_crypto($socket, true, STREAM_CRYPTO_METHOD_TLS_CLIENT)) {
+            throw new RuntimeException('SMTP TLS не включился.');
+        }
+        smtp_cmd($socket, 'EHLO ' . ($_SERVER['HTTP_HOST'] ?? 'localhost'), 250);
+    }
+    smtp_cmd($socket, 'AUTH LOGIN', 334);
+    smtp_cmd($socket, base64_encode($username), 334);
+    smtp_cmd($socket, base64_encode($password), 235);
+    smtp_cmd($socket, 'MAIL FROM:<' . $fromEmail . '>', 250);
+    smtp_cmd($socket, 'RCPT TO:<' . $to . '>', [250, 251]);
+    smtp_cmd($socket, 'DATA', 354);
+    $encodedSubject = '=?UTF-8?B?' . base64_encode($subject) . '?=';
+    $message = "From: {$fromName} <{$fromEmail}>\r\n" .
+        "To: <{$to}>\r\n" .
+        "Subject: {$encodedSubject}\r\n" .
+        "MIME-Version: 1.0\r\n" .
+        "Content-Type: text/plain; charset=UTF-8\r\n\r\n" .
+        $body . "\r\n.";
+    smtp_cmd($socket, $message, 250);
+    smtp_cmd($socket, 'QUIT', 221);
+    fclose($socket);
+}
+
+function smtp_cmd($socket, string $command, int|array $expected): string
+{
+    fwrite($socket, $command . "\r\n");
+    return smtp_expect($socket, $expected);
+}
+
+function smtp_expect($socket, int|array $expected): string
+{
+    $expected = (array) $expected;
+    $response = '';
+    do {
+        $line = fgets($socket, 512);
+        if ($line === false) {
+            throw new RuntimeException('SMTP не ответил.');
+        }
+        $response .= $line;
+    } while (isset($line[3]) && $line[3] === '-');
+    $code = (int) substr($response, 0, 3);
+    if (!in_array($code, $expected, true)) {
+        throw new RuntimeException('SMTP ошибка: ' . trim($response));
+    }
+    return $response;
 }
 function update_admin_account(PDO $pdo, Auth $auth, array $input): void
 {
