@@ -27,7 +27,8 @@ $excludeDirs = @(
     "public\uploads\menu",
     "public\uploads\menu-source",
     "scripts",
-    "sql"
+    "sql",
+    "source-photos"
 )
 
 $excludeFiles = @(
