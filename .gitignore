@@ -1,0 +1,9 @@
+app/config.local.php
+deploy.config.local.ps1
+storage/*.sqlite
+storage/*.sqlite-*
+public/uploads/menu/*
+!public/uploads/menu/.gitkeep
+.DS_Store
+Thumbs.db
+

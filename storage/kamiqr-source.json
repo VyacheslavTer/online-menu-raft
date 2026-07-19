@@ -1,0 +1,5252 @@
+{
+  "url": "http://raft.kamiqr.com/menu/basic2026-06-18/list?utm_media=qr",
+  "pathname": "/menu/basic2026-06-18",
+  "data": {
+    "_id": "9d6ac4d1-dab2-4a91-849f-27f3fd4efe85",
+    "timestamp": "2026-07-13T14:44:39.583844015+05:00",
+    "status": "ok",
+    "version": 57,
+    "orgId": "a7d73540-acdf-4779-850e-0f17731af4dc",
+    "number": "676421691633",
+    "name": "Базовое",
+    "link": "basic2026-06-18",
+    "subdomain": "raft",
+    "i18N": {
+      "currency": "KZT",
+      "defaultLang": "RU",
+      "otherLangs": [
+        "KZ",
+        "EN"
+      ],
+      "defaultCountryCode": "KZ"
+    },
+    "orgAttrs": {
+      "name": "raft",
+      "logo": "",
+      "backgroundImg": "",
+      "desc": {},
+      "address": {
+        "RU": "Сарайшик 34"
+      },
+      "schedule": {
+        "RU": "12:00--02:00"
+      },
+      "phoneContacts": [],
+      "whatsapp": {
+        "number": "+77015663083",
+        "countryCode": "KZ"
+      },
+      "instagram": "raft.bar",
+      "facebook": "",
+      "tiktok": "",
+      "side": ""
+    },
+    "linkGroups": [],
+    "tree": {
+      "sections": [
+        {
+          "sectionId": "1fdc4ca2-07e8-4065-b505-74b1b983b6d3",
+          "categories": [
+            {
+              "categoryId": "85612d94-04c8-48c9-8119-fc70ddaee9e3",
+              "items": [
+                {
+                  "itemId": "109a1b84-1970-4c87-a233-0bc67444a525"
+                },
+                {
+                  "itemId": "cc0f5e41-505d-4a35-8b52-2b4384111cdd"
+                },
+                {
+                  "itemId": "75cd2410-c197-411a-9b73-bd5195d331d1"
+                },
+                {
+                  "itemId": "7d6001fe-0ac9-4ea4-a746-879910409b78"
+                },
+                {
+                  "itemId": "0d2c99d9-366f-473b-9b3a-2b0fde407deb"
+                },
+                {
+                  "itemId": "9be74202-87c2-4719-88d5-34da4c5a6874"
+                },
+                {
+                  "itemId": "91710316-53e7-41ce-86df-5289efb0ef1f"
+                },
+                {
+                  "itemId": "778361bc-c742-41bf-8884-8d8e3c795402"
+                }
+              ]
+            },
+            {
+              "categoryId": "97822cc4-a2d2-4547-b81e-3e7fa9398431",
+              "items": [
+                {
+                  "itemId": "c67759aa-3029-40d4-81cb-f6fa3572ebd8"
+                },
+                {
+                  "itemId": "5289d76e-0872-4662-9396-fd97ecbe6055"
+                },
+                {
+                  "itemId": "fff1cd7b-4021-4265-ba4a-0d3a4d63f79d"
+                },
+                {
+                  "itemId": "c3a0036c-74af-47df-86cb-560980680b12"
+                }
+              ]
+            },
+            {
+              "categoryId": "4d649539-0707-40d8-8f5c-f944fc6b51c1",
+              "items": [
+                {
+                  "itemId": "b6127c3a-11d8-4edb-9910-46e1e49aa758"
+                },
+                {
+                  "itemId": "8edc1e48-7b42-4c1c-b11f-e6c7d2fbfa7e"
+                },
+                {
+                  "itemId": "5d7063d8-13e2-4972-8c41-18f3080d49b9"
+                },
+                {
+                  "itemId": "20e97986-074e-4d5f-b0e1-7352fb61ac75"
+                },
+                {
+                  "itemId": "43b9306e-b4e2-4bc2-82d2-194c60e060ea"
+                },
+                {
+                  "itemId": "c2b50185-6c75-4218-bb80-8866b7a290c7"
+                }
+              ]
+            },
+            {
+              "categoryId": "a9f6fce4-4862-464f-a392-efe6bc852e32",
+              "items": [
+                {
+                  "itemId": "078eab97-9f69-40d0-9e1d-4c6890b93064"
+                },
+                {
+                  "itemId": "c22d6fc7-54a8-4ea4-b854-b2c116cb5d7c"
+                }
+              ]
+            },
+            {
+              "categoryId": "5d563be6-e766-48cd-86f6-cc182fb238be",
+              "items": [
+                {
+                  "itemId": "1d385eb6-7ec6-439a-b605-679fe1a0f56f"
+                },
+                {
+                  "itemId": "a75dd4e8-861a-4cf1-b715-c07c1592b2ce"
+                },
+                {
+                  "itemId": "2dae3549-a256-493a-9ee0-bfe96434f114"
+                },
+                {
+                  "itemId": "542694d4-f299-4691-bd10-945ba6b0acc7"
+                },
+                {
+                  "itemId": "d8a328e5-148c-46a5-9d54-67c72c6e77af"
+                },
+                {
+                  "itemId": "a0c54621-11eb-41dd-8827-19e29d4eb7cf"
+                },
+                {
+                  "itemId": "127bbbe9-ec22-492e-8ced-1cd93b7595bc"
+                }
+              ]
+            },
+            {
+              "categoryId": "2a2bd71d-759a-44da-8039-cf77a56047ca",
+              "items": [
+                {
+                  "itemId": "c2810d7b-df8e-4e4c-bcf7-4f39b71c32e5"
+                },
+                {
+                  "itemId": "a1f95ed6-9b84-463b-9cdf-bd18b00a2cde"
+                },
+                {
+                  "itemId": "05dc5508-754a-4f0d-a4d1-65ee2d47d3fc"
+                },
+                {
+                  "itemId": "a7f3f00e-e7aa-4e4b-8d08-7b877b8d8362"
+                },
+                {
+                  "itemId": "415b4ee7-344f-4750-8e57-6f2063d02ffb"
+                }
+              ]
+            },
+            {
+              "categoryId": "157a0d8b-a309-4503-b166-cee486b1b264",
+              "items": [
+                {
+                  "itemId": "c648a6fb-4fbb-4d3d-a6f2-09e94b8cea9d"
+                },
+                {
+                  "itemId": "7c855718-03fb-4454-9a45-32b81ada3818"
+                },
+                {
+                  "itemId": "69b54a22-a064-4908-8fdd-fc3dfbd3a61c"
+                },
+                {
+                  "itemId": "2cca53df-c989-49bf-8b64-1a430eb912b0"
+                },
+                {
+                  "itemId": "5fe72159-f05b-432b-a891-59d011dc6608"
+                }
+              ]
+            },
+            {
+              "categoryId": "5ed49b44-a415-4ba0-9b86-ff0d7dcfc6e9",
+              "items": [
+                {
+                  "itemId": "835ce90b-b1c9-4194-8daf-2fe025df7891"
+                },
+                {
+                  "itemId": "d6d912d4-4f6b-459e-bc69-de3090e4bba3"
+                }
+              ]
+            },
+            {
+              "categoryId": "cf92e7d5-0603-4396-87eb-870da88a6e46",
+              "items": [
+                {
+                  "itemId": "29df5981-d671-4473-8ecb-9bf2d020fa55"
+                }
+              ]
+            },
+            {
+              "categoryId": "7a11de9b-c73f-4150-bba0-b333aff6be61",
+              "items": [
+                {
+                  "itemId": "ecdc5f32-23a7-42bc-a472-26c88820abee"
+                },
+                {
+                  "itemId": "f667d5f5-f515-4004-96b8-4075268ffeca"
+                }
+              ]
+            },
+            {
+              "categoryId": "b4dd4242-2332-463b-b88a-365d14984e2f",
+              "items": [
+                {
+                  "itemId": "5c43d8b6-ea96-4ccb-9e81-2ef1ef3eb8f6"
+                },
+                {
+                  "itemId": "bd46cdad-9a30-4f33-b691-37cc2e4ccbf8"
+                },
+                {
+                  "itemId": "d0884b18-fb63-4e0c-9daa-0ae7b4278be3"
+                }
+              ]
+            },
+            {
+              "categoryId": "74fcc522-046b-4366-992f-48f192fbfc73",
+              "items": [
+                {
+                  "itemId": "93225d7b-b296-4ad6-b9ce-ebc373ef6849"
+                },
+                {
+                  "itemId": "2dc69576-8e09-412f-b9c5-93141b25d02d"
+                },
+                {
+                  "itemId": "2ea8f823-6fa0-4d7e-9c51-7e3f4312815c"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionId": "754fd274-c81e-49e3-a1de-ed1c0f100df8",
+          "categories": [
+            {
+              "categoryId": "9d0e5def-8dfc-44d9-95c1-2e91119f9164",
+              "items": [
+                {
+                  "itemId": "a4ddcd90-c400-48e8-908c-ba114a6fd7e8"
+                },
+                {
+                  "itemId": "8fdf142a-539e-4a86-a148-9d5eba073f81"
+                },
+                {
+                  "itemId": "a650540a-bca9-447c-aaef-15c96355aaf7"
+                },
+                {
+                  "itemId": "6e86a744-479e-442d-b10f-c67c4ebd28c7"
+                },
+                {
+                  "itemId": "d6867e8d-2ce8-426c-8072-8305feef0ecd"
+                }
+              ]
+            },
+            {
+              "categoryId": "79bbadec-aba3-4fd7-8bc0-5ce585ac77eb",
+              "items": [
+                {
+                  "itemId": "6f7e1317-7150-4ed7-a4e1-1be8e0cc4e65"
+                },
+                {
+                  "itemId": "ceba2e9f-46af-4070-bcfd-ca48075e6c19"
+                }
+              ]
+            },
+            {
+              "categoryId": "1bd27cc3-257f-4388-a2d7-d9808b402c0e",
+              "items": [
+                {
+                  "itemId": "8bb38ad6-d795-4e7f-8dbe-4074a5db23ac"
+                },
+                {
+                  "itemId": "0aee1270-ad9d-4e14-860b-d8dcd4f41ea7"
+                },
+                {
+                  "itemId": "2749a995-c85b-474d-ac5c-ac6eca6b7be7"
+                }
+              ]
+            },
+            {
+              "categoryId": "5dafbac9-fa43-48d5-8d0d-9fec1654df5a",
+              "items": [
+                {
+                  "itemId": "c42a069d-ae5c-4c73-a818-337eea646430"
+                }
+              ]
+            },
+            {
+              "categoryId": "2ecdc948-e688-45d4-a6c6-ab765f57d1d8",
+              "items": [
+                {
+                  "itemId": "320d6e0a-76b3-408a-b890-2f8790f3b38b"
+                },
+                {
+                  "itemId": "74444ca3-8517-4389-8408-13ee1d8e756a"
+                },
+                {
+                  "itemId": "3721604a-6393-410e-9163-8f456e1d5a96"
+                }
+              ]
+            },
+            {
+              "categoryId": "5c4c3680-f558-4296-ae7c-f68b0ade9919",
+              "items": [
+                {
+                  "itemId": "1730b4fe-5f0b-4234-8056-70ffc93db857"
+                }
+              ]
+            },
+            {
+              "categoryId": "d17c33b5-9878-4949-a05a-0a1e56888c97",
+              "items": [
+                {
+                  "itemId": "e67c22d3-9458-47bf-aff0-1294e3356304"
+                },
+                {
+                  "itemId": "dbfd5232-fe4a-4c6a-bb69-ae78de09d9dc"
+                }
+              ]
+            },
+            {
+              "categoryId": "81600fee-4880-4268-9158-ff0e3dd6558e",
+              "items": [
+                {
+                  "itemId": "c906ff05-7a0c-408a-ae91-1a5674ff7381"
+                },
+                {
+                  "itemId": "81259096-6cee-48e2-a815-cebdc92e0696"
+                },
+                {
+                  "itemId": "df7f9056-60f2-42c1-8869-962b69cc231b"
+                },
+                {
+                  "itemId": "29920203-6bc6-4001-bae7-05e7ff0e3a6d"
+                },
+                {
+                  "itemId": "c83953dd-b061-40b1-b2b4-0725d15721b0"
+                }
+              ]
+            },
+            {
+              "categoryId": "6a0e2f2f-fbbe-4ca9-9fb1-bfeaea4dec5e",
+              "items": [
+                {
+                  "itemId": "937fe6d3-0493-4ecf-88e9-d2d62c0e8af9"
+                },
+                {
+                  "itemId": "3028029d-e016-4678-95e6-bbc8dbccd7b4"
+                }
+              ]
+            },
+            {
+              "categoryId": "94a69446-97ae-4af2-90d2-0003d906de95",
+              "items": [
+                {
+                  "itemId": "8bec604a-c980-4685-a33a-40c12f62498c"
+                },
+                {
+                  "itemId": "63845a36-8156-47e5-8257-ff46635ab87a"
+                }
+              ]
+            },
+            {
+              "categoryId": "9a8ebf77-0a5d-4387-a6a9-98a8b2f17374",
+              "items": [
+                {
+                  "itemId": "b66370fc-681e-4b93-bcd9-b97b47be4c8b"
+                }
+              ]
+            },
+            {
+              "categoryId": "3870dec2-bec6-40c4-84e6-95a7a3cabadb",
+              "items": [
+                {
+                  "itemId": "8d55764b-8bea-47c6-aa32-c5b246a26008"
+                }
+              ]
+            },
+            {
+              "categoryId": "e8ef16b7-e3a3-4cee-b3d0-a0de7bee2f94",
+              "items": [
+                {
+                  "itemId": "94351e83-c7e3-4fb2-bd77-d67d672be081"
+                }
+              ]
+            },
+            {
+              "categoryId": "3499bb99-fce5-454f-8bf0-d0e99fd2f2ed",
+              "items": [
+                {
+                  "itemId": "679c7831-03e6-4c3e-9495-888c889abcd9"
+                },
+                {
+                  "itemId": "bf99a859-1836-416f-8a68-c0e5e8a9c73e"
+                },
+                {
+                  "itemId": "920f75af-f6b2-477c-a0f0-2c1fa169a60a"
+                },
+                {
+                  "itemId": "4a1ed81e-a824-4f62-aa54-a46e4650006a"
+                },
+                {
+                  "itemId": "7bc2e645-4558-4dab-a92d-47dbc0412033"
+                },
+                {
+                  "itemId": "934d5f09-da35-461e-b257-1f3587eaf069"
+                },
+                {
+                  "itemId": "a48a126e-9a6b-4746-a7ab-7a35df523d64"
+                }
+              ]
+            },
+            {
+              "categoryId": "243c28d2-dee5-4369-b06d-1768557ec901",
+              "items": [
+                {
+                  "itemId": "505c4273-b6e8-4acf-b1fe-8ebc2eefb4c7"
+                },
+                {
+                  "itemId": "69ccde2d-4b12-439b-b332-cab4b473514a"
+                },
+                {
+                  "itemId": "d776c1b6-f01c-4b6c-b00b-06bf5f947a98"
+                }
+              ]
+            },
+            {
+              "categoryId": "1d4e8111-2244-4113-ab99-db213bd1307b",
+              "items": null
+            },
+            {
+              "categoryId": "995a1e13-79b6-4308-b625-a43f08bc6b79",
+              "items": [
+                {
+                  "itemId": "fe458c84-8dc3-48ad-ab64-5c6fca356061"
+                },
+                {
+                  "itemId": "9d272b9d-ea9f-4f9e-a864-437a0d05adfd"
+                },
+                {
+                  "itemId": "10e95e67-8880-4cd3-a159-f40f43c6c4a6"
+                }
+              ]
+            },
+            {
+              "categoryId": "bf1924db-f85a-475e-ba55-bf688a88ae02",
+              "items": [
+                {
+                  "itemId": "8b68b2bc-6ab1-46d3-9e94-8a31c07dcbfe"
+                },
+                {
+                  "itemId": "12f54eb9-266e-4e0d-b578-1ac1406444ea"
+                },
+                {
+                  "itemId": "7d4440a6-e4fc-4352-bd4c-f5c1ba128f43"
+                }
+              ]
+            },
+            {
+              "categoryId": "b31f38dd-fe2a-43f8-88ac-89089b5e65d9",
+              "items": [
+                {
+                  "itemId": "aaf06d22-61b6-4af8-aa78-dc6dfbbda664"
+                }
+              ]
+            },
+            {
+              "categoryId": "891b3f08-957b-42a9-8799-714b62534c9d",
+              "items": [
+                {
+                  "itemId": "8ebedd4d-62df-4030-9b63-5a33144e4983"
+                }
+              ]
+            },
+            {
+              "categoryId": "eb885858-6512-496e-ace0-3b049a7767d9",
+              "items": [
+                {
+                  "itemId": "4fac9728-d7a7-4de4-a75d-ad8453076b77"
+                },
+                {
+                  "itemId": "ae6f6c02-ea74-47fe-ac89-1913e84e92da"
+                },
+                {
+                  "itemId": "e2e91297-86cd-4673-b4d6-6a192d4e6d1d"
+                },
+                {
+                  "itemId": "d3ca05a8-d61f-4478-b705-a53bdcd893b6"
+                }
+              ]
+            },
+            {
+              "categoryId": "5b4b6bf0-3a68-454e-abda-d668b2850f2e",
+              "items": [
+                {
+                  "itemId": "d074f4e0-f9ea-472c-9fad-3d007f46fb77"
+                },
+                {
+                  "itemId": "1bc076c5-5fc1-4313-b5e5-97fa888f24ce"
+                }
+              ]
+            },
+            {
+              "categoryId": "3670e938-5412-4fc9-a12d-d1dcb26b035e",
+              "items": [
+                {
+                  "itemId": "72fe1c0c-bdee-480b-a101-66c8c35a2e29"
+                },
+                {
+                  "itemId": "38a1c322-8fca-45f6-b7ae-01b735b48de3"
+                },
+                {
+                  "itemId": "c3018747-80f0-4312-b8a1-a20338678f32"
+                }
+              ]
+            },
+            {
+              "categoryId": "5c872cbf-9be4-4218-90ef-3fb158b0f84a",
+              "items": [
+                {
+                  "itemId": "b658a5fa-e4e2-41a7-80dd-07edb2596f79"
+                },
+                {
+                  "itemId": "f1cf64f0-2a82-4988-a593-0910b094d443"
+                },
+                {
+                  "itemId": "9716d8ec-28b7-4393-b959-fc489e56e3a1"
+                },
+                {
+                  "itemId": "f9d897bf-0d2a-4e2f-b158-5998dd41d095"
+                },
+                {
+                  "itemId": "93402018-1f4a-45bf-8e5e-30e198cf2b59"
+                }
+              ]
+            },
+            {
+              "categoryId": "51eeaf8b-932a-4aff-a8c5-4982018f98c1",
+              "items": [
+                {
+                  "itemId": "07cf00cc-6078-4f12-a1d1-8ed02cf9f847"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionId": "f647d4c7-f180-4bb2-ac14-ee03da29f7a8",
+          "categories": [
+            {
+              "categoryId": "fb3b8cf5-e7ad-4505-9525-44107d4cd1c0",
+              "items": [
+                {
+                  "itemId": "91c63342-81aa-4295-b7d8-a3fd5f213ecc"
+                }
+              ]
+            },
+            {
+              "categoryId": "f6b6659c-6cab-4da9-9c55-9c5793bdca08",
+              "items": [
+                {
+                  "itemId": "254b58ad-28d9-443d-b2b9-7246ba506601"
+                }
+              ]
+            },
+            {
+              "categoryId": "ed845d36-86d3-4ab6-a58d-93f0fe1f53ed",
+              "items": [
+                {
+                  "itemId": "46e1c684-e2a3-4715-935c-ad59bd28852e"
+                },
+                {
+                  "itemId": "76cb0c43-b6b5-4899-a90d-c9d1669612c1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sections": {
+      "1fdc4ca2-07e8-4065-b505-74b1b983b6d3": {
+        "_id": "1fdc4ca2-07e8-4065-b505-74b1b983b6d3",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "img": "24295db2f9dd4bc8b71d61b6b0684195.jpg",
+        "isHidden": false,
+        "name": {
+          "EN": "Main menu",
+          "KZ": "Негізгі мәзір",
+          "RU": "Основное меню "
+        },
+        "availability": {
+          "monday": [],
+          "tuesday": [],
+          "wednesday": [],
+          "thursday": [],
+          "friday": [],
+          "saturday": [],
+          "sunday": [],
+          "timezone": "Asia/Almaty"
+        }
+      },
+      "754fd274-c81e-49e3-a1de-ed1c0f100df8": {
+        "_id": "754fd274-c81e-49e3-a1de-ed1c0f100df8",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "img": "72845911e2ad4dc9b376fff6364896c9.webp",
+        "isHidden": false,
+        "name": {
+          "RU": "Барное Меню"
+        },
+        "availability": {
+          "monday": [],
+          "tuesday": [],
+          "wednesday": [],
+          "thursday": [],
+          "friday": [],
+          "saturday": [],
+          "sunday": [],
+          "timezone": "Asia/Almaty"
+        }
+      },
+      "f647d4c7-f180-4bb2-ac14-ee03da29f7a8": {
+        "_id": "f647d4c7-f180-4bb2-ac14-ee03da29f7a8",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "img": "75cd6eb346074b13930818a5973cacc6.jpeg",
+        "isHidden": false,
+        "name": {
+          "RU": "Винная Карта"
+        },
+        "availability": {
+          "monday": [],
+          "tuesday": [],
+          "wednesday": [],
+          "thursday": [],
+          "friday": [],
+          "saturday": [],
+          "sunday": [],
+          "timezone": "Asia/Almaty"
+        }
+      }
+    },
+    "slides": [
+      {
+        "id": "4d32bee6-0aa6-4d8f-a5d8-3f1575f6d7ed",
+        "img": "a5949b92a5e24bbcbf4d58406323475d.jpg",
+        "text": {},
+        "url": "https://chili-grill.kamiqr.com/feedback/xqUHpu"
+      }
+    ],
+    "categories": {
+      "157a0d8b-a309-4503-b166-cee486b1b264": {
+        "_id": "157a0d8b-a309-4503-b166-cee486b1b264",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Side dishes",
+          "KZ": "Гарнирлер",
+          "RU": "Гарниры "
+        }
+      },
+      "1bd27cc3-257f-4388-a2d7-d9808b402c0e": {
+        "_id": "1bd27cc3-257f-4388-a2d7-d9808b402c0e",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Соки, Минеральная Вода"
+        }
+      },
+      "1d4e8111-2244-4113-ab99-db213bd1307b": {
+        "_id": "1d4e8111-2244-4113-ab99-db213bd1307b",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "SHOT DRINKS"
+        }
+      },
+      "243c28d2-dee5-4369-b06d-1768557ec901": {
+        "_id": "243c28d2-dee5-4369-b06d-1768557ec901",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "ЛИКЕР"
+        }
+      },
+      "2a2bd71d-759a-44da-8039-cf77a56047ca": {
+        "_id": "2a2bd71d-759a-44da-8039-cf77a56047ca",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Kebabs",
+          "KZ": "Кәуаптар",
+          "RU": "Шашлыки "
+        }
+      },
+      "2ecdc948-e688-45d4-a6c6-ab765f57d1d8": {
+        "_id": "2ecdc948-e688-45d4-a6c6-ab765f57d1d8",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Авторские Чаи"
+        }
+      },
+      "3499bb99-fce5-454f-8bf0-d0e99fd2f2ed": {
+        "_id": "3499bb99-fce5-454f-8bf0-d0e99fd2f2ed",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Алкогольные коктейли"
+        }
+      },
+      "3670e938-5412-4fc9-a12d-d1dcb26b035e": {
+        "_id": "3670e938-5412-4fc9-a12d-d1dcb26b035e",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Водка"
+        }
+      },
+      "3870dec2-bec6-40c4-84e6-95a7a3cabadb": {
+        "_id": "3870dec2-bec6-40c4-84e6-95a7a3cabadb",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "БУТЫЛОЧНОЕ БЕЗАЛКОГОЛЬНОЕ"
+        }
+      },
+      "4d649539-0707-40d8-8f5c-f944fc6b51c1": {
+        "_id": "4d649539-0707-40d8-8f5c-f944fc6b51c1",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Hot appetizers ",
+          "KZ": "Ыстық тіскебасарлар ",
+          "RU": "Горячие закуски "
+        }
+      },
+      "51eeaf8b-932a-4aff-a8c5-4982018f98c1": {
+        "_id": "51eeaf8b-932a-4aff-a8c5-4982018f98c1",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Сигареты,Стики,Другое"
+        }
+      },
+      "5b4b6bf0-3a68-454e-abda-d668b2850f2e": {
+        "_id": "5b4b6bf0-3a68-454e-abda-d668b2850f2e",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Текила"
+        }
+      },
+      "5c4c3680-f558-4296-ae7c-f68b0ade9919": {
+        "_id": "5c4c3680-f558-4296-ae7c-f68b0ade9919",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Чай в Ассортименте"
+        }
+      },
+      "5c872cbf-9be4-4218-90ef-3fb158b0f84a": {
+        "_id": "5c872cbf-9be4-4218-90ef-3fb158b0f84a",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Виски"
+        }
+      },
+      "5d563be6-e766-48cd-86f6-cc182fb238be": {
+        "_id": "5d563be6-e766-48cd-86f6-cc182fb238be",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Second courses",
+          "KZ": "Екінші тағамдар",
+          "RU": "Вторые блюда "
+        }
+      },
+      "5dafbac9-fa43-48d5-8d0d-9fec1654df5a": {
+        "_id": "5dafbac9-fa43-48d5-8d0d-9fec1654df5a",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Зеленый чай"
+        }
+      },
+      "5ed49b44-a415-4ba0-9b86-ff0d7dcfc6e9": {
+        "_id": "5ed49b44-a415-4ba0-9b86-ff0d7dcfc6e9",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Pasta",
+          "KZ": "Паста",
+          "RU": "Паста "
+        }
+      },
+      "6a0e2f2f-fbbe-4ca9-9fb1-bfeaea4dec5e": {
+        "_id": "6a0e2f2f-fbbe-4ca9-9fb1-bfeaea4dec5e",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Snacks for beer",
+          "KZ": "Сыраға арналған тағамдар",
+          "RU": "Закуски к пиву"
+        }
+      },
+      "74fcc522-046b-4366-992f-48f192fbfc73": {
+        "_id": "74fcc522-046b-4366-992f-48f192fbfc73",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Sauces",
+          "KZ": "Тұздықтар",
+          "RU": "Соусы"
+        }
+      },
+      "79bbadec-aba3-4fd7-8bc0-5ce585ac77eb": {
+        "_id": "79bbadec-aba3-4fd7-8bc0-5ce585ac77eb",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Газированные напитки"
+        }
+      },
+      "7a11de9b-c73f-4150-bba0-b333aff6be61": {
+        "_id": "7a11de9b-c73f-4150-bba0-b333aff6be61",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Meat pizza",
+          "KZ": "Етті пицца",
+          "RU": "Пицца мясная "
+        }
+      },
+      "81600fee-4880-4268-9158-ff0e3dd6558e": {
+        "_id": "81600fee-4880-4268-9158-ff0e3dd6558e",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Эспрессо напитки,коктейли"
+        }
+      },
+      "85612d94-04c8-48c9-8119-fc70ddaee9e3": {
+        "_id": "85612d94-04c8-48c9-8119-fc70ddaee9e3",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Salads",
+          "KZ": "Салаттар",
+          "RU": "Салаты"
+        }
+      },
+      "891b3f08-957b-42a9-8799-714b62534c9d": {
+        "_id": "891b3f08-957b-42a9-8799-714b62534c9d",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Джин"
+        }
+      },
+      "94a69446-97ae-4af2-90d2-0003d906de95": {
+        "_id": "94a69446-97ae-4af2-90d2-0003d906de95",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Пиво разливное"
+        }
+      },
+      "97822cc4-a2d2-4547-b81e-3e7fa9398431": {
+        "_id": "97822cc4-a2d2-4547-b81e-3e7fa9398431",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Cold appetizers ",
+          "KZ": "Салқын тіскебасарлар ",
+          "RU": "Закуски холодные"
+        }
+      },
+      "995a1e13-79b6-4308-b625-a43f08bc6b79": {
+        "_id": "995a1e13-79b6-4308-b625-a43f08bc6b79",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Аперитив/Вермут/Биттер"
+        }
+      },
+      "9a8ebf77-0a5d-4387-a6a9-98a8b2f17374": {
+        "_id": "9a8ebf77-0a5d-4387-a6a9-98a8b2f17374",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Пиво бутылочное"
+        }
+      },
+      "9d0e5def-8dfc-44d9-95c1-2e91119f9164": {
+        "_id": "9d0e5def-8dfc-44d9-95c1-2e91119f9164",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Лимонады"
+        }
+      },
+      "a9f6fce4-4862-464f-a392-efe6bc852e32": {
+        "_id": "a9f6fce4-4862-464f-a392-efe6bc852e32",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "First courses",
+          "KZ": "Бірінші тағамдар",
+          "RU": "Первые блюда"
+        }
+      },
+      "b31f38dd-fe2a-43f8-88ac-89089b5e65d9": {
+        "_id": "b31f38dd-fe2a-43f8-88ac-89089b5e65d9",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Бренди"
+        }
+      },
+      "b4dd4242-2332-463b-b88a-365d14984e2f": {
+        "_id": "b4dd4242-2332-463b-b88a-365d14984e2f",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Pizza",
+          "KZ": "Пицца",
+          "RU": "Пицца"
+        }
+      },
+      "bf1924db-f85a-475e-ba55-bf688a88ae02": {
+        "_id": "bf1924db-f85a-475e-ba55-bf688a88ae02",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Коньяк"
+        }
+      },
+      "cf92e7d5-0603-4396-87eb-870da88a6e46": {
+        "_id": "cf92e7d5-0603-4396-87eb-870da88a6e46",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "EN": "Bread",
+          "KZ": "Нан",
+          "RU": "Хлеб"
+        }
+      },
+      "d17c33b5-9878-4949-a05a-0a1e56888c97": {
+        "_id": "d17c33b5-9878-4949-a05a-0a1e56888c97",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "К Чаю"
+        }
+      },
+      "e8ef16b7-e3a3-4cee-b3d0-a0de7bee2f94": {
+        "_id": "e8ef16b7-e3a3-4cee-b3d0-a0de7bee2f94",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "НАСТОЙКИ"
+        }
+      },
+      "eb885858-6512-496e-ace0-3b049a7767d9": {
+        "_id": "eb885858-6512-496e-ace0-3b049a7767d9",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Ром"
+        }
+      },
+      "ed845d36-86d3-4ab6-a58d-93f0fe1f53ed": {
+        "_id": "ed845d36-86d3-4ab6-a58d-93f0fe1f53ed",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Игристые Вина"
+        }
+      },
+      "f6b6659c-6cab-4da9-9c55-9c5793bdca08": {
+        "_id": "f6b6659c-6cab-4da9-9c55-9c5793bdca08",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Красное Вино"
+        }
+      },
+      "fb3b8cf5-e7ad-4505-9525-44107d4cd1c0": {
+        "_id": "fb3b8cf5-e7ad-4505-9525-44107d4cd1c0",
+        "createdAt": "",
+        "desc": {},
+        "editedAt": "",
+        "isHidden": false,
+        "name": {
+          "RU": "Белые Вина"
+        }
+      }
+    },
+    "items": {
+      "05dc5508-754a-4f0d-a4d1-65ee2d47d3fc": {
+        "_id": "05dc5508-754a-4f0d-a4d1-65ee2d47d3fc",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "2dc6de3d8d9a427a919c58b93d9358a4.png",
+        "name": {
+          "EN": "Lula kebab",
+          "KZ": "Люля-кебаб",
+          "RU": "Люля-кебаб"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "EN": "veal",
+              "KZ": "бұзау еті",
+              "RU": "баранина"
+            },
+            "oldPrice": 0,
+            "price": 320000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(lavash, sauce, baked potatoes, pickled onions)",
+            "KZ": "(лаваш, тұздық, пісірілген картоп, маринадталған пияз)",
+            "RU": "(лаваш, соус, запеченный картофель, маринованный лук)"
+          },
+          "tags": {}
+        }
+      },
+      "078eab97-9f69-40d0-9e1d-4c6890b93064": {
+        "_id": "078eab97-9f69-40d0-9e1d-4c6890b93064",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "cb0dfa4d0fb54a3f9010e57337b33f97.png",
+        "name": {
+          "EN": "Spicy tom yum soup",
+          "KZ": "Ащы Том Ям сорпасы",
+          "RU": "Острый суп Том Ям"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "EN": "rice",
+                "KZ": "күріш",
+                "RU": "рис"
+              },
+              "oldPrice": 0,
+              "price": 295000
+            }
+          ],
+          "primary": {
+            "label": {
+              "EN": "rice noodles",
+              "KZ": "күріш кеспесі",
+              "RU": "рисовая лапша"
+            },
+            "oldPrice": 0,
+            "price": 295000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(with salmon, pike perch, shiitake mushrooms)",
+            "KZ": "(албырт, көксерке, шиитаке саңырауқұлақтарымен)",
+            "RU": "(с лососем, судаком, грибами шиитаке)\n"
+          },
+          "tags": {}
+        }
+      },
+      "07cf00cc-6078-4f12-a1d1-8ed02cf9f847": {
+        "_id": "07cf00cc-6078-4f12-a1d1-8ed02cf9f847",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "СИГАРЕТЫ"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {},
+              "oldPrice": 0,
+              "price": 200000
+            },
+            {
+              "label": {},
+              "oldPrice": 0,
+              "price": 200000
+            },
+            {
+              "label": {
+                "RU": "CHAPMAN"
+              },
+              "oldPrice": 0,
+              "price": 250000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "PARLAMENT "
+            },
+            "oldPrice": 0,
+            "price": 200000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "0aee1270-ad9d-4e14-860b-d8dcd4f41ea7": {
+        "_id": "0aee1270-ad9d-4e14-860b-d8dcd4f41ea7",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "019c0f17147940b8b365cb4570adabf4.webp",
+        "name": {
+          "RU": "Tassay "
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "1Л"
+              },
+              "oldPrice": 0,
+              "price": 125000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "0.5"
+            },
+            "oldPrice": 0,
+            "price": 75000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "0d2c99d9-366f-473b-9b3a-2b0fde407deb": {
+        "_id": "0d2c99d9-366f-473b-9b3a-2b0fde407deb",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Хрустящие листья салата с соусом Цезарь  и гренками"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 350000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Хрустящие листья салата с соусом Цезарь  и гренками с курицей"
+          },
+          "tags": {}
+        }
+      },
+      "109a1b84-1970-4c87-a233-0bc67444a525": {
+        "_id": "109a1b84-1970-4c87-a233-0bc67444a525",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "74a7493fd87f4c079d51008b8c54c312.png",
+        "name": {
+          "EN": "Salad with crispy eggplant",
+          "KZ": "Қытырлақ баялды салаты",
+          "RU": "Пикантный салат с хрустящими баклажанами с мисо чили"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 295000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(with sweet chili sauce)",
+            "KZ": "(тәтті чили тұздығымен)",
+            "RU": "(с соусом свит чили)\n"
+          },
+          "tags": {}
+        }
+      },
+      "10e95e67-8880-4cd3-a159-f40f43c6c4a6": {
+        "_id": "10e95e67-8880-4cd3-a159-f40f43c6c4a6",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "93ff48d05eb7492f8540295bb0cd4572.webp",
+        "name": {
+          "RU": "APEROL"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 210000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "127bbbe9-ec22-492e-8ced-1cd93b7595bc": {
+        "_id": "127bbbe9-ec22-492e-8ced-1cd93b7595bc",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Куриная грудка  с мусом и соусом Чимичури"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 390000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "12f54eb9-266e-4e0d-b578-1ac1406444ea": {
+        "_id": "12f54eb9-266e-4e0d-b578-1ac1406444ea",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "79baf5b1af7f464c809f14f840426b17.jpeg",
+        "name": {
+          "RU": "АРАРАТ 3"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 200000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "1730b4fe-5f0b-4234-8056-70ffc93db857": {
+        "_id": "1730b4fe-5f0b-4234-8056-70ffc93db857",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "a89f463342ac47efa1cce34bfccf514d.png",
+        "name": {
+          "RU": "Зеленый чай чашка/Черный чай чашка"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 45000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "1bc076c5-5fc1-4313-b5e5-97fa888f24ce": {
+        "_id": "1bc076c5-5fc1-4313-b5e5-97fa888f24ce",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "96b6c32fc52e405faeb9b35c71fcc28f.webp",
+        "name": {
+          "RU": "OLMECA BLANCO"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 195000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "1d385eb6-7ec6-439a-b605-679fe1a0f56f": {
+        "_id": "1d385eb6-7ec6-439a-b605-679fe1a0f56f",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "c90a063df3084b02905cbc0f73c2f66b.png",
+        "name": {
+          "EN": "Chicken breast chop",
+          "KZ": "Тауықтың төс еті",
+          "RU": "Отбивная куриная грудка венский шницель"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 365000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(breaded in breadcrumbs, with mashed potatoes and mushroom sauce)",
+            "KZ": "(нан үгіндісіне пісірілген, картоп пюресі және саңырауқұлақ тұздығы қосылған)",
+            "RU": "(панированная в сухарях, с  грибным соусом)"
+          },
+          "tags": {}
+        }
+      },
+      "20e97986-074e-4d5f-b0e1-7352fb61ac75": {
+        "_id": "20e97986-074e-4d5f-b0e1-7352fb61ac75",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Мойва в кукурузной панировке"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 300000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "254b58ad-28d9-443d-b2b9-7246ba506601": {
+        "_id": "254b58ad-28d9-443d-b2b9-7246ba506601",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Maritali Алазанская долина кр. п./сл."
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 650000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "2749a995-c85b-474d-ac5c-ac6eca6b7be7": {
+        "_id": "2749a995-c85b-474d-ac5c-ac6eca6b7be7",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "04f72e5dfe6546c9a8d2c69f71b7de98.png",
+        "name": {
+          "RU": "Апельсиновый Фреш"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "0.25"
+            },
+            "oldPrice": 0,
+            "price": 270000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "29920203-6bc6-4001-bae7-05e7ff0e3a6d": {
+        "_id": "29920203-6bc6-4001-bae7-05e7ff0e3a6d",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "a9e2a95c63eb41d9af6e00351d3f8643.png",
+        "name": {
+          "RU": "Латте"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 140000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "29df5981-d671-4473-8ecb-9bf2d020fa55": {
+        "_id": "29df5981-d671-4473-8ecb-9bf2d020fa55",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Хлеб ассорти"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 135000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "2cca53df-c989-49bf-8b64-1a430eb912b0": {
+        "_id": "2cca53df-c989-49bf-8b64-1a430eb912b0",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "1f3eabd8900441c2a3d114a82e9cf94d.png",
+        "name": {
+          "EN": "Fragrant grilled vegetables",
+          "KZ": "Хош иісті грильдегі көкөністер",
+          "RU": "Ароматные овощи гриль"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 220000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "2dae3549-a256-493a-9ee0-bfe96434f114": {
+        "_id": "2dae3549-a256-493a-9ee0-bfe96434f114",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "1e91aa60d07c429e935c3106faa8fc94.png",
+        "name": {
+          "EN": "Steak Amigo",
+          "KZ": "Стейк Амиго",
+          "RU": "Стейк Амиго"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 720000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(with pomegranate sauce)",
+            "KZ": "(анар тұздығымен)",
+            "RU": "(с гранатовым соусом)"
+          },
+          "tags": {}
+        }
+      },
+      "2dc69576-8e09-412f-b9c5-93141b25d02d": {
+        "_id": "2dc69576-8e09-412f-b9c5-93141b25d02d",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "0a1717cbd53d4e0c872fbccce36d1cc9.png",
+        "name": {
+          "EN": "Kebab",
+          "KZ": "Кәуап",
+          "RU": "Шашлычный"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 49000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "2ea8f823-6fa0-4d7e-9c51-7e3f4312815c": {
+        "_id": "2ea8f823-6fa0-4d7e-9c51-7e3f4312815c",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "7a923961d3fd479f9b4daf9e0cf4a986.png",
+        "name": {
+          "EN": "Mustard",
+          "KZ": "Қыша",
+          "RU": "Горчица"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 49000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "3028029d-e016-4678-95e6-bbc8dbccd7b4": {
+        "_id": "3028029d-e016-4678-95e6-bbc8dbccd7b4",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "7686e4d9261747ca9ad8b4b9bc306cee.jpeg",
+        "name": {
+          "RU": "Чечил"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 155000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "320d6e0a-76b3-408a-b890-2f8790f3b38b": {
+        "_id": "320d6e0a-76b3-408a-b890-2f8790f3b38b",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "f146424e06c948f19933ffaedc05cc6d.png",
+        "name": {
+          "RU": "Ташкентский чай"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.8"
+              },
+              "oldPrice": 0,
+              "price": 225000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "0.25"
+            },
+            "oldPrice": 0,
+            "price": 100000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "3721604a-6393-410e-9163-8f456e1d5a96": {
+        "_id": "3721604a-6393-410e-9163-8f456e1d5a96",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "3ad1f961e5ec4ee7a23ddd8300ab1d8c.png",
+        "name": {
+          "RU": "Малиновый чай (бабушкий рецепт)"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.8"
+              },
+              "oldPrice": 0,
+              "price": 225000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "0.25"
+            },
+            "oldPrice": 0,
+            "price": 100000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "38a1c322-8fca-45f6-b7ae-01b735b48de3": {
+        "_id": "38a1c322-8fca-45f6-b7ae-01b735b48de3",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "16ceb9da984048e3a5c54652e01352ca.jpeg",
+        "name": {
+          "RU": "Кызыл-Жар"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 125000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "415b4ee7-344f-4750-8e57-6f2063d02ffb": {
+        "_id": "415b4ee7-344f-4750-8e57-6f2063d02ffb",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Ассорти из шашлыков 5"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 2500000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Баранина, говядина, утка, курица, люля-кебаб"
+          },
+          "tags": {}
+        }
+      },
+      "43b9306e-b4e2-4bc2-82d2-194c60e060ea": {
+        "_id": "43b9306e-b4e2-4bc2-82d2-194c60e060ea",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Бараньи семечки"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 450000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "46e1c684-e2a3-4715-935c-ad59bd28852e": {
+        "_id": "46e1c684-e2a3-4715-935c-ad59bd28852e",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "f2d7a9bf220d4df08741a978893b4d22.jpeg",
+        "name": {
+          "RU": "Sovetskoe"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "0.75L"
+            },
+            "oldPrice": 0,
+            "price": 500000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Советское шампанское — сладкое или полусладкое игристое вино в классическом постсоветском стиле.\n\n🍏 Аромат: яблоко, груша, лёгкие цветочные ноты\n\n🍬 Вкус: сладкий или полусладкий, мягкий, с простой фруктовостью\n\n🫧 Стиль: игристое, лёгкое, с умеренной кислотностью\n\n🎨 Цвет: светло-соломенный\n\n🍰 Подача: десерты, фрукты, праздники\n\n👉 В целом: простое, сладкое и ностальгическое игристое — больше про атмосферу, чем про сложность"
+          },
+          "tags": {}
+        }
+      },
+      "4a1ed81e-a824-4f62-aa54-a46e4650006a": {
+        "_id": "4a1ed81e-a824-4f62-aa54-a46e4650006a",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "acb8699d6eab4cac8fd3b5bd789f4e8d.jpeg",
+        "name": {
+          "RU": "PINA COLADA"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 350000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "4fac9728-d7a7-4de4-a75d-ad8453076b77": {
+        "_id": "4fac9728-d7a7-4de4-a75d-ad8453076b77",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "d42d58fe111c4757b4dd14f118028cc8.jpeg",
+        "name": {
+          "RU": "BACARDI CARTA NEGRA"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 145000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "505c4273-b6e8-4acf-b1fe-8ebc2eefb4c7": {
+        "_id": "505c4273-b6e8-4acf-b1fe-8ebc2eefb4c7",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "a0c373ce5c8f4f1ca5e6d7e151f5f1ee.webp",
+        "name": {
+          "RU": "BEILEYS"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50 ML"
+            },
+            "oldPrice": 0,
+            "price": 250000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "5289d76e-0872-4662-9396-fd97ecbe6055": {
+        "_id": "5289d76e-0872-4662-9396-fd97ecbe6055",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Чечел"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 170000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "542694d4-f299-4691-bd10-945ba6b0acc7": {
+        "_id": "542694d4-f299-4691-bd10-945ba6b0acc7",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Пепер стейк"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 900000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "5c43d8b6-ea96-4ccb-9e81-2ef1ef3eb8f6": {
+        "_id": "5c43d8b6-ea96-4ccb-9e81-2ef1ef3eb8f6",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Пицца Пикантная пепперони"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 365000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "5d7063d8-13e2-4972-8c41-18f3080d49b9": {
+        "_id": "5d7063d8-13e2-4972-8c41-18f3080d49b9",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Спрингл  ролл с сыром и  вяленным мясом"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 450000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "5fe72159-f05b-432b-a891-59d011dc6608": {
+        "_id": "5fe72159-f05b-432b-a891-59d011dc6608",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "b022590425f342efbdd647c6f16a43cd.png",
+        "name": {
+          "EN": "Fragrant oriental rice",
+          "KZ": "Хош иісті шығыстық күріш",
+          "RU": "Ароматный восточный рис"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 195000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "63845a36-8156-47e5-8257-ff46635ab87a": {
+        "_id": "63845a36-8156-47e5-8257-ff46635ab87a",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "BIRHOFF Томаш Полутемное"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 160000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "679c7831-03e6-4c3e-9495-888c889abcd9": {
+        "_id": "679c7831-03e6-4c3e-9495-888c889abcd9",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "0abadd9c6c9141f3a0deb9e39691f63c.jpeg",
+        "name": {
+          "RU": "LONG ISLAND ICE TEA"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 340000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "69b54a22-a064-4908-8fdd-fc3dfbd3a61c": {
+        "_id": "69b54a22-a064-4908-8fdd-fc3dfbd3a61c",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "9845b16ef5e24217980d593ca12e2060.png",
+        "name": {
+          "EN": "Home-style potatoes with mushrooms",
+          "KZ": "Саңырауқұлақтары бар үйдегідей картоп",
+          "RU": "Картофель по-домашнему с грибами"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 360000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "69ccde2d-4b12-439b-b332-cab4b473514a": {
+        "_id": "69ccde2d-4b12-439b-b332-cab4b473514a",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "86ec950af1574479b2388536cecf08c2.webp",
+        "name": {
+          "RU": "KAHLUA"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50 ML"
+            },
+            "oldPrice": 0,
+            "price": 250000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "6e86a744-479e-442d-b10f-c67c4ebd28c7": {
+        "_id": "6e86a744-479e-442d-b10f-c67c4ebd28c7",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "8c42dbf71ad742889c8653b465a4637c.png",
+        "name": {
+          "RU": "Mojito"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.33"
+              },
+              "oldPrice": 0,
+              "price": 80000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "1 л"
+            },
+            "oldPrice": 0,
+            "price": 235000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {
+            "RU": "<p><em style=\"margin: 0px; padding: 0px; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 31); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; font-size: 16px; white-space: pre-line;\">Классическое сочетание лайма, мяты и газированной воды. Освежает, бодрит, не содержит алкоголя. Идеален в жаркий день!</em><br></p>"
+          },
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Cочетание лайма, мяты и газированной воды"
+          },
+          "tags": {}
+        }
+      },
+      "6f7e1317-7150-4ed7-a4e1-1be8e0cc4e65": {
+        "_id": "6f7e1317-7150-4ed7-a4e1-1be8e0cc4e65",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "a134dc2a50164c8f91e2a3a1e273c905.png",
+        "name": {
+          "RU": "Coca-Cola"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.5"
+              },
+              "oldPrice": 0,
+              "price": 145000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "1Л"
+            },
+            "oldPrice": 0,
+            "price": 195000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "72fe1c0c-bdee-480b-a101-66c8c35a2e29": {
+        "_id": "72fe1c0c-bdee-480b-a101-66c8c35a2e29",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "e9b4ace2d70742498dd2e753f952006b.jpeg",
+        "name": {
+          "RU": "ХОРТИЦЯ ICE"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 125000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "74444ca3-8517-4389-8408-13ee1d8e756a": {
+        "_id": "74444ca3-8517-4389-8408-13ee1d8e756a",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "a39068dbc9624974b9d3d220a4f5f913.png",
+        "name": {
+          "RU": "Облепиховый чай"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.8 "
+              },
+              "oldPrice": 0,
+              "price": 225000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "0.25"
+            },
+            "oldPrice": 0,
+            "price": 100000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "75cd2410-c197-411a-9b73-bd5195d331d1": {
+        "_id": "75cd2410-c197-411a-9b73-bd5195d331d1",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Салат из свежих овощей  с греческим йогуртом и грильяжем"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 290000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 2900,
+          "cookingTimeTo": 2900,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 2900,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "76cb0c43-b6b5-4899-a90d-c9d1669612c1": {
+        "_id": "76cb0c43-b6b5-4899-a90d-c9d1669612c1",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Абрау-Дюрсо роз/пс"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 700000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "778361bc-c742-41bf-8884-8d8e3c795402": {
+        "_id": "778361bc-c742-41bf-8884-8d8e3c795402",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Салат из печеной свеклы, апельсина и крем бальзамика"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 300000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "7bc2e645-4558-4dab-a92d-47dbc0412033": {
+        "_id": "7bc2e645-4558-4dab-a92d-47dbc0412033",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "85ac1691ddbd414980ee8ddd79a1888b.jpeg",
+        "name": {
+          "RU": "TEQUILA SUNRISE"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 250000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "7c855718-03fb-4454-9a45-32b81ada3818": {
+        "_id": "7c855718-03fb-4454-9a45-32b81ada3818",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "db5894cb1e4d4775b504958630232f71.png",
+        "name": {
+          "EN": "Golden potato wedges",
+          "KZ": "Алтын картоп сыналары",
+          "RU": "Золотистые картофельные дольки"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 220000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "7d4440a6-e4fc-4352-bd4c-f5c1ba128f43": {
+        "_id": "7d4440a6-e4fc-4352-bd4c-f5c1ba128f43",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "e1f0ae04fdfd4868962492ee309b5946.jpeg",
+        "name": {
+          "RU": "АРАРАТ 5"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 280000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "7d6001fe-0ac9-4ea4-a746-879910409b78": {
+        "_id": "7d6001fe-0ac9-4ea4-a746-879910409b78",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Салат с лососем  и авокадо с цитрусовой заправкой"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 350000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "81259096-6cee-48e2-a815-cebdc92e0696": {
+        "_id": "81259096-6cee-48e2-a815-cebdc92e0696",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "b9da9a5483ae4bee8fbd21d545d60483.png",
+        "name": {
+          "RU": "Американо"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 110000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "835ce90b-b1c9-4194-8daf-2fe025df7891": {
+        "_id": "835ce90b-b1c9-4194-8daf-2fe025df7891",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "a1e28ab7eb5e45b69089f8f18871bf57.png",
+        "name": {
+          "EN": "Appetizing pasta carbonara",
+          "KZ": "Тәбетті паста карбонара",
+          "RU": "Аппетитная паста карбонара с говяжьим беконом"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 395000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(choice of bacon or smoked veal, black pepper, yolk, Parmesan cheese)",
+            "KZ": "(таңдауға бекон немесе ысталған бұзау еті, қара бұрыш, жұмыртқа сарысы, пармезан ірімшігі)",
+            "RU": "(на выбор бекон или копченая телятина перец черный, желток, сыр пармезан)"
+          },
+          "tags": {}
+        }
+      },
+      "8b68b2bc-6ab1-46d3-9e94-8a31c07dcbfe": {
+        "_id": "8b68b2bc-6ab1-46d3-9e94-8a31c07dcbfe",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "4fc279536dd0485b9390ca1dd1ebfa41.jpeg",
+        "name": {
+          "RU": "HENNESSY VS"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 450000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "8bb38ad6-d795-4e7f-8dbe-4074a5db23ac": {
+        "_id": "8bb38ad6-d795-4e7f-8dbe-4074a5db23ac",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "996bb75d5d41447683c1d4a304fe2749.webp",
+        "name": {
+          "RU": "Gracio в ассортименте"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.25"
+              },
+              "oldPrice": 0,
+              "price": 65000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "1Л"
+            },
+            "oldPrice": 0,
+            "price": 250000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "8bec604a-c980-4685-a33a-40c12f62498c": {
+        "_id": "8bec604a-c980-4685-a33a-40c12f62498c",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "e49c2ba20dec41f9b8fee63cc0a56c09.jpeg",
+        "name": {
+          "RU": "Karloff (фильтрованное)"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "1 литр"
+              },
+              "oldPrice": 0,
+              "price": 300000
+            },
+            {
+              "label": {
+                "RU": "3 литра"
+              },
+              "oldPrice": 0,
+              "price": 890000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "0,5"
+            },
+            "oldPrice": 0,
+            "price": 150000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {
+            "RU": "<p>Фильтрованое</p>"
+          },
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Мягкое, натуральное пиво. Состав:  вода, солод, дрожи,  хмель.\nСварено по ГОСТу СССР"
+          },
+          "tags": {}
+        }
+      },
+      "8d55764b-8bea-47c6-aa32-c5b246a26008": {
+        "_id": "8d55764b-8bea-47c6-aa32-c5b246a26008",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "643bbb0686e84347b0089d15cc52bc72.png",
+        "name": {
+          "RU": "EFES 0"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 150000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "8ebedd4d-62df-4030-9b63-5a33144e4983": {
+        "_id": "8ebedd4d-62df-4030-9b63-5a33144e4983",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "cec2b6b298b3425a9211476f4de9d96c.jpeg",
+        "name": {
+          "RU": "BEEFEATER"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 165000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "8edc1e48-7b42-4c1c-b11f-e6c7d2fbfa7e": {
+        "_id": "8edc1e48-7b42-4c1c-b11f-e6c7d2fbfa7e",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Сырные палочки с  копченой сметаной"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 390000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "8fdf142a-539e-4a86-a148-9d5eba073f81": {
+        "_id": "8fdf142a-539e-4a86-a148-9d5eba073f81",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "5381c14b26894529baf1591d87288563.png",
+        "name": {
+          "RU": "Манго Маракуйя"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.33"
+              },
+              "oldPrice": 0,
+              "price": 80000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "1Л"
+            },
+            "oldPrice": 0,
+            "price": 235000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {
+            "RU": "Сочный манго и ароматная маракуйя создают настоящий тропический коктейль. Яркий вкус лета в каждом глотке. Наш самый популярный лимонад!"
+          },
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Сочный манго и ароматная маракуйя."
+          },
+          "tags": {}
+        }
+      },
+      "91710316-53e7-41ce-86df-5289efb0ef1f": {
+        "_id": "91710316-53e7-41ce-86df-5289efb0ef1f",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Тайский салат с мясом кунжутной заправкой и мятой"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 390000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "91c63342-81aa-4295-b7d8-a3fd5f213ecc": {
+        "_id": "91c63342-81aa-4295-b7d8-a3fd5f213ecc",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Maritali Алазанская долина  б. п./сл."
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 650000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "920f75af-f6b2-477c-a0f0-2c1fa169a60a": {
+        "_id": "920f75af-f6b2-477c-a0f0-2c1fa169a60a",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "0b465b3afda046ca8b33a701ab0a1c2c.jpeg",
+        "name": {
+          "RU": "SEX ON THE BEACH"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 270000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "93225d7b-b296-4ad6-b9ce-ebc373ef6849": {
+        "_id": "93225d7b-b296-4ad6-b9ce-ebc373ef6849",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "5a1d34e736f740f8aacce1519eacd378.png",
+        "name": {
+          "EN": "Ketchup",
+          "KZ": "Кетчуп",
+          "RU": "Кетчуп"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 49000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "93402018-1f4a-45bf-8e5e-30e198cf2b59": {
+        "_id": "93402018-1f4a-45bf-8e5e-30e198cf2b59",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "6d7c11ce77174328b274bb9681f18b2a.jpeg",
+        "name": {
+          "RU": "MACALLAN 12 Y.O."
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 820000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "934d5f09-da35-461e-b257-1f3587eaf069": {
+        "_id": "934d5f09-da35-461e-b257-1f3587eaf069",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "4c347d9546f94be8b0b7033f2ab65d38.jpeg",
+        "name": {
+          "RU": "GIN-TONIC"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 275000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "937fe6d3-0493-4ecf-88e9-d2d62c0e8af9": {
+        "_id": "937fe6d3-0493-4ecf-88e9-d2d62c0e8af9",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "a0755e378cf8408b8e591685e79c3656.png",
+        "name": {
+          "RU": "Арахис"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50гр"
+            },
+            "oldPrice": 0,
+            "price": 120000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "94351e83-c7e3-4fb2-bd77-d67d672be081": {
+        "_id": "94351e83-c7e3-4fb2-bd77-d67d672be081",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "НАСТОЙКА НА ВЫБОР"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "Вишневая"
+            },
+            "oldPrice": 0,
+            "price": 120000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "9716d8ec-28b7-4393-b959-fc489e56e3a1": {
+        "_id": "9716d8ec-28b7-4393-b959-fc489e56e3a1",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "f4d184d6abf841ce9eebb868ff0bd5dd.jpeg",
+        "name": {
+          "RU": "DEWARS 12 Y.O."
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 340000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "9be74202-87c2-4719-88d5-34da4c5a6874": {
+        "_id": "9be74202-87c2-4719-88d5-34da4c5a6874",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Хрустящие листья салата с соусом Цезарь  и креветками"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 350000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "9d272b9d-ea9f-4f9e-a864-437a0d05adfd": {
+        "_id": "9d272b9d-ea9f-4f9e-a864-437a0d05adfd",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "eea2052015784130be2ae2a22b25a400.webp",
+        "name": {
+          "RU": "JAGERMEISTER"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 230000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "a0c54621-11eb-41dd-8827-19e29d4eb7cf": {
+        "_id": "a0c54621-11eb-41dd-8827-19e29d4eb7cf",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Медальон из лосося со спаржей и шпинатом"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 650000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "a1f95ed6-9b84-463b-9cdf-bd18b00a2cde": {
+        "_id": "a1f95ed6-9b84-463b-9cdf-bd18b00a2cde",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "2076338115d34f1b9e18dea40f97648e.png",
+        "name": {
+          "EN": "Chicken thighs kebab ",
+          "KZ": "Тауық санынан кәуап",
+          "RU": "Шашлык из куриного филе"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 395000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(lavash, sauce, baked potatoes, pickled onions)",
+            "KZ": "(лаваш, тұздық, пісірілген картоп, маринадталған пияз)",
+            "RU": "(лаваш, соус, запеченный картофель, маринованный лук)"
+          },
+          "tags": {}
+        }
+      },
+      "a48a126e-9a6b-4746-a7ab-7a35df523d64": {
+        "_id": "a48a126e-9a6b-4746-a7ab-7a35df523d64",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "4a9208e04f5b4f60b5ee22ad6009dedd.png",
+        "name": {
+          "RU": "APEROL SPRITZ"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 350000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "a4ddcd90-c400-48e8-908c-ba114a6fd7e8": {
+        "_id": "a4ddcd90-c400-48e8-908c-ba114a6fd7e8",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "e171b63d92ad4247809b1f36c99446b2.png",
+        "name": {
+          "RU": "Тропический "
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0,33 л"
+              },
+              "oldPrice": 0,
+              "price": 80000
+            }
+          ],
+          "primary": {
+            "label": {
+              "EN": "1l",
+              "KZ": "1л",
+              "RU": "1 л"
+            },
+            "oldPrice": 0,
+            "price": 235000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {
+            "RU": "<p><br></p>"
+          },
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Сочный вкус  фруктов и цитрусов создают настоящий тропический коктейль. Яркий вкус лета в каждом глотке. Наш самый популярный лимонад!"
+          },
+          "tags": {}
+        }
+      },
+      "a650540a-bca9-447c-aaef-15c96355aaf7": {
+        "_id": "a650540a-bca9-447c-aaef-15c96355aaf7",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "b1194ba5c8344cd392c996029c7024df.png",
+        "name": {
+          "RU": "Киви Лайм"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.33"
+              },
+              "oldPrice": 0,
+              "price": 80000
+            }
+          ],
+          "primary": {
+            "label": {
+              "EN": "1 l",
+              "KZ": "1 л",
+              "RU": "1 л"
+            },
+            "oldPrice": 0,
+            "price": 235000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {
+            "RU": "<p>Экзотический дуэт киви и лайма. Освежающая кислинка с тропическим послевкусием. Для тех, кто любит необычные вкусы!<br></p>"
+          },
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Экзотический дуэт киви и лайма."
+          },
+          "tags": {}
+        }
+      },
+      "a75dd4e8-861a-4cf1-b715-c07c1592b2ce": {
+        "_id": "a75dd4e8-861a-4cf1-b715-c07c1592b2ce",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "7ec9ffafbbee48caab98cc8462f7079e.png",
+        "name": {
+          "EN": "Smoky rib",
+          "KZ": "Түтін қабырғасы",
+          "RU": "Дымные томленные  ребрышки  с соусом харчо"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "EN": "enlarged",
+                "KZ": "үлкейтілген",
+                "RU": "увеличенное"
+              },
+              "oldPrice": 0,
+              "price": 890000
+            }
+          ],
+          "primary": {
+            "label": {
+              "EN": "with one rib",
+              "KZ": "бір қабырғамен",
+              "RU": "c одной ребрышкой"
+            },
+            "oldPrice": 0,
+            "price": 650000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(beef with lentil puree and salsa)",
+            "KZ": "(сиыр еті жасымық пюресі және сальса)",
+            "RU": "(говяжье с пюре из чечевицы и сальсой)"
+          },
+          "tags": {}
+        }
+      },
+      "a7f3f00e-e7aa-4e4b-8d08-7b877b8d8362": {
+        "_id": "a7f3f00e-e7aa-4e4b-8d08-7b877b8d8362",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Шашлые из Утиной  грудки"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 490000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "aaf06d22-61b6-4af8-aa78-dc6dfbbda664": {
+        "_id": "aaf06d22-61b6-4af8-aa78-dc6dfbbda664",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "f14edd8dc80448788e6579f44679630f.png",
+        "name": {
+          "RU": "КАЗАХСТАН 3"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 110000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "ae6f6c02-ea74-47fe-ac89-1913e84e92da": {
+        "_id": "ae6f6c02-ea74-47fe-ac89-1913e84e92da",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "00bf83b9477a43c68f446ccb8f3dba5d.jpeg",
+        "name": {
+          "RU": "BACARDI OAKHEART"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 145000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "b6127c3a-11d8-4edb-9910-46e1e49aa758": {
+        "_id": "b6127c3a-11d8-4edb-9910-46e1e49aa758",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "0c2fa95ba67f4bbba328ba4f60d52599.png",
+        "name": {
+          "EN": "Golden fried shrimp",
+          "KZ": "Қуырылған алтын асшаяндар",
+          "RU": "Золотистые жареные креветки пивные 400 гр."
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 495000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(for beer)",
+            "KZ": "(сыраға арналған)",
+            "RU": "(пивные)"
+          },
+          "tags": {}
+        }
+      },
+      "b658a5fa-e4e2-41a7-80dd-07edb2596f79": {
+        "_id": "b658a5fa-e4e2-41a7-80dd-07edb2596f79",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "d9fbc7d618604c70a3f921dbe398864e.jpeg",
+        "name": {
+          "RU": "JOHNIE WALKER RED LABEL"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 170000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "b66370fc-681e-4b93-bcd9-b97b47be4c8b": {
+        "_id": "b66370fc-681e-4b93-bcd9-b97b47be4c8b",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "10c2c362dead42b4ac187c153d548db8.jpeg",
+        "name": {
+          "RU": "MILLER"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "0.33"
+            },
+            "oldPrice": 0,
+            "price": 195000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "bd46cdad-9a30-4f33-b691-37cc2e4ccbf8": {
+        "_id": "bd46cdad-9a30-4f33-b691-37cc2e4ccbf8",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Пицца Болоньезе"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 355000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "bf99a859-1836-416f-8a68-c0e5e8a9c73e": {
+        "_id": "bf99a859-1836-416f-8a68-c0e5e8a9c73e",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "9df4bc71c2414800900fff6a8dc4353b.jpeg",
+        "name": {
+          "RU": "MOJITO"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 265000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "c22d6fc7-54a8-4ea4-b854-b2c116cb5d7c": {
+        "_id": "c22d6fc7-54a8-4ea4-b854-b2c116cb5d7c",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Суп чечевичный"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 280000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "c2810d7b-df8e-4e4c-bcf7-4f39b71c32e5": {
+        "_id": "c2810d7b-df8e-4e4c-bcf7-4f39b71c32e5",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "93a8a46cad0a4f40b5ef20f4ab0c7c54.png",
+        "name": {
+          "EN": "Lamb kebab",
+          "KZ": "Қой етінен кәуап",
+          "RU": "Шашлык из баранины"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 595000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "EN": "(lavash, sauce, baked potatoes, \npickled onions)",
+            "KZ": "(лаваш, тұздық, пісірілген картоп, маринадталған пияз)",
+            "RU": "(лаваш, соус, запеченный картофель, \nмаринованный лук) "
+          },
+          "tags": {}
+        }
+      },
+      "c2b50185-6c75-4218-bb80-8866b7a290c7": {
+        "_id": "c2b50185-6c75-4218-bb80-8866b7a290c7",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Куырдак в бараньей сетке с копченым картофелем"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 450000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "c3018747-80f0-4312-b8a1-a20338678f32": {
+        "_id": "c3018747-80f0-4312-b8a1-a20338678f32",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Алтайская водка"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 150000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {
+            "RU": "Настойка: сок облепиховый, сок яблочный,  порошок пантов марала. экстракт из смеси (орех кедровый, бадан, брусника лист ,тополь черный, душица, радиола розовая и  травы Алтая)"
+          },
+          "tags": {}
+        }
+      },
+      "c3a0036c-74af-47df-86cb-560980680b12": {
+        "_id": "c3a0036c-74af-47df-86cb-560980680b12",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "EN": "Onion rings",
+          "KZ": "Пияз сақиналары",
+          "RU": "Луковые кольца"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 250000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "c42a069d-ae5c-4c73-a818-337eea646430": {
+        "_id": "c42a069d-ae5c-4c73-a818-337eea646430",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "6d601f0d4a764e66b48d5196aa517c39.png",
+        "name": {
+          "RU": "Green Tea"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 155000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "c648a6fb-4fbb-4d3d-a6f2-09e94b8cea9d": {
+        "_id": "c648a6fb-4fbb-4d3d-a6f2-09e94b8cea9d",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "2ccdcedb9ef94c298af3c9959b3ba4f0.png",
+        "name": {
+          "EN": "Golden fries",
+          "KZ": "Алтын картоп фри ",
+          "RU": "Золотистый картофель фри"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 220000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "c67759aa-3029-40d4-81cb-f6fa3572ebd8": {
+        "_id": "c67759aa-3029-40d4-81cb-f6fa3572ebd8",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Малосольный лосось, голец и линок"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 550000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "c83953dd-b061-40b1-b2b4-0725d15721b0": {
+        "_id": "c83953dd-b061-40b1-b2b4-0725d15721b0",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "2b59310990d0406fbc8397fbc2692fa2.png",
+        "name": {
+          "RU": "Латте Макиато"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 160000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "c906ff05-7a0c-408a-ae91-1a5674ff7381": {
+        "_id": "c906ff05-7a0c-408a-ae91-1a5674ff7381",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "156c4fd613bf48d4bfb5e071eef3f2c1.png",
+        "name": {
+          "RU": "Эспрессо"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {},
+              "oldPrice": 0,
+              "price": 0
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "1 порция"
+            },
+            "oldPrice": 0,
+            "price": 90000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "cc0f5e41-505d-4a35-8b52-2b4384111cdd": {
+        "_id": "cc0f5e41-505d-4a35-8b52-2b4384111cdd",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Битые огурцы с  чили перцем"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 250000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 2500,
+          "cookingTimeTo": 2500,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 2500,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "ceba2e9f-46af-4070-bcfd-ca48075e6c19": {
+        "_id": "ceba2e9f-46af-4070-bcfd-ca48075e6c19",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "417947dfebce424689972bca0fd90e5e.jpeg",
+        "name": {
+          "RU": "Fanta"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.33"
+              },
+              "oldPrice": 0,
+              "price": 145000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "1Л"
+            },
+            "oldPrice": 0,
+            "price": 195000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "d074f4e0-f9ea-472c-9fad-3d007f46fb77": {
+        "_id": "d074f4e0-f9ea-472c-9fad-3d007f46fb77",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "cfff3826765a4cdb8fe246483075a564.jpeg",
+        "name": {
+          "RU": "OLMECA GOLD"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 195000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "d0884b18-fb63-4e0c-9daa-0ae7b4278be3": {
+        "_id": "d0884b18-fb63-4e0c-9daa-0ae7b4278be3",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Пицца Капричоза"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 385000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "d3ca05a8-d61f-4478-b705-a53bdcd893b6": {
+        "_id": "d3ca05a8-d61f-4478-b705-a53bdcd893b6",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Bacardi Spiced"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 160000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "d6867e8d-2ce8-426c-8072-8305feef0ecd": {
+        "_id": "d6867e8d-2ce8-426c-8072-8305feef0ecd",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "54840c10c1e648ae95b7eacef64893c0.png",
+        "name": {
+          "RU": "Ягодный Микс"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [
+            {
+              "label": {
+                "RU": "0.33"
+              },
+              "oldPrice": 0,
+              "price": 80000
+            }
+          ],
+          "primary": {
+            "label": {
+              "RU": "1 л"
+            },
+            "oldPrice": 0,
+            "price": 235000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {
+            "RU": "<p><em style=\"margin: 0px; padding: 0px; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 31); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; font-size: 16px; white-space: pre-line;\">Ассорти из вкусов ягод: малина, ежевика, клубника. Насыщенный вкус с легкой кислинкой. Богат витаминами и антиоксидантами.</em><br></p>"
+          },
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "d6d912d4-4f6b-459e-bc69-de3090e4bba3": {
+        "_id": "d6d912d4-4f6b-459e-bc69-de3090e4bba3",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Лингвини с курицей и грибами"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 450000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "d776c1b6-f01c-4b6c-b00b-06bf5f947a98": {
+        "_id": "d776c1b6-f01c-4b6c-b00b-06bf5f947a98",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "3337998237df404786d35cfca2dd5e84.webp",
+        "name": {
+          "RU": "MALIBU"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50 ML"
+            },
+            "oldPrice": 0,
+            "price": 250000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "d8a328e5-148c-46a5-9d54-67c72c6e77af": {
+        "_id": "d8a328e5-148c-46a5-9d54-67c72c6e77af",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Буглома \"Степняка\""
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 450000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "dbfd5232-fe4a-4c6a-bb69-ae78de09d9dc": {
+        "_id": "dbfd5232-fe4a-4c6a-bb69-ae78de09d9dc",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Лимон"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "1 порция"
+            },
+            "oldPrice": 0,
+            "price": 85000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "df7f9056-60f2-42c1-8869-962b69cc231b": {
+        "_id": "df7f9056-60f2-42c1-8869-962b69cc231b",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "875c39e26de9487b8a107ec1be525b8b.png",
+        "name": {
+          "RU": "Капуччино"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 110000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "e2e91297-86cd-4673-b4d6-6a192d4e6d1d": {
+        "_id": "e2e91297-86cd-4673-b4d6-6a192d4e6d1d",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "3efeb3f4d83f4357a22005680b19dca8.jpeg",
+        "name": {
+          "RU": "BACARDI CARTA BLANCA"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 145000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "e67c22d3-9458-47bf-aff0-1294e3356304": {
+        "_id": "e67c22d3-9458-47bf-aff0-1294e3356304",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Молоко"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "0.1"
+            },
+            "oldPrice": 0,
+            "price": 30000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "ecdc5f32-23a7-42bc-a472-26c88820abee": {
+        "_id": "ecdc5f32-23a7-42bc-a472-26c88820abee",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Пицца Маргарита"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 320000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "f1cf64f0-2a82-4988-a593-0910b094d443": {
+        "_id": "f1cf64f0-2a82-4988-a593-0910b094d443",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "5bcf517615b74090b47eef3e14dfa90e.jpeg",
+        "name": {
+          "RU": "DEWARS WHITE LABEL"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 170000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "f667d5f5-f515-4004-96b8-4075268ffeca": {
+        "_id": "f667d5f5-f515-4004-96b8-4075268ffeca",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Пицца Ранч с цыпленком"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 355000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "f9d897bf-0d2a-4e2f-b158-5998dd41d095": {
+        "_id": "f9d897bf-0d2a-4e2f-b158-5998dd41d095",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "34dad6ab373742288eb823bb2c02ef57.jpeg",
+        "name": {
+          "RU": "BALLANTINES"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "50ml"
+            },
+            "oldPrice": 0,
+            "price": 180000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "fe458c84-8dc3-48ad-ab64-5c6fca356061": {
+        "_id": "fe458c84-8dc3-48ad-ab64-5c6fca356061",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "mainImg": "265d4709c6b24e85840b90228d06d79d.webp",
+        "name": {
+          "RU": "MARTINI BIANCO"
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {
+              "RU": "100ml"
+            },
+            "oldPrice": 0,
+            "price": 235000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      },
+      "fff1cd7b-4021-4265-ba4a-0d3a4d63f79d": {
+        "_id": "fff1cd7b-4021-4265-ba4a-0d3a4d63f79d",
+        "createdAt": "",
+        "editedAt": "",
+        "isHidden": false,
+        "isOff": false,
+        "name": {
+          "RU": "Чечел жаренный "
+        },
+        "prices": {
+          "modExtras": [],
+          "modSelects": [],
+          "others": [],
+          "primary": {
+            "label": {},
+            "oldPrice": 0,
+            "price": 250000
+          }
+        },
+        "specs": {
+          "carbs": 0,
+          "cookingTimeFrom": 0,
+          "cookingTimeTo": 0,
+          "fats": 0,
+          "fullDesc": {},
+          "grams": 0,
+          "kiloCalories": 0,
+          "proteins": 0,
+          "shortDesc": {},
+          "tags": {}
+        }
+      }
+    },
+    "bespoke": {
+      "customIcons": null,
+      "inCartMessage": null,
+      "isHiddenCartTotalPrice": null,
+      "replaceTxts": null
+    },
+    "styling": {},
+    "customPageLinks": [],
+    "itemsMedia": {},
+    "orderSupItems": [],
+    "menuIikoSettings": {
+      "mustIgnoreStopLists": false,
+      "mustSendDeliveryOrdersForCouriers": false
+    },
+    "cola": {},
+    "crossSellingMapping": {
+      "categories": null,
+      "products": null
+    },
+    "mentions": {
+      "toCategories": null,
+      "toProducts": null
+    },
+    "tagging": {}
+  },
+  "mode": "PROD",
+  "assetsUrl": "https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod",
+  "apiUrl": "https://api.kamiqr.com",
+  "apiUrlNltx": "https://events-writer.kamiqr.com/add-customer-events",
+  "apiV2Url": "https://api-v2.kamiqr.com",
+  "isPrintMenu": false,
+  "isIikoMenu": false,
+  "isRkeeperMenu": false,
+  "isColaMenu": false,
+  "isPreview": false,
+  "isFromQR": true,
+  "defaultPlacement": "",
+  "customerTokenId": "b6136f4e-ff83-4911-b342-7ec7e7287634",
+  "customerSessionId": "1ba4a9de-7316-4f2e-a512-485d03fcde9b",
+  "customerGlobalToken": "7744539d-2d33-43e2-85e9-828b312b2630",
+  "splitGroups": {
+    "recommendation-system-version": "v1"
+  },
+  "isNewUser": false,
+  "surveySubmitted": false,
+  "recommendedProducts": [],
+  "buildId": "28930553910_1f1aaad",
+  "params": {
+    "utm_media": "qr"
+  },
+  "currentLang": "RU"
+}
