@@ -415,3 +415,60 @@ window.setTimeout(() => {
   renderCart();
   updateScrollTopButton();
 }, 0);
+
+function initializePasswordToggles() {
+  document.querySelectorAll('input[type="password"]').forEach((input) => {
+    if (input.dataset.passwordToggleReady === '1') return;
+
+    const wrapper = document.createElement('span');
+    wrapper.className = 'password-field';
+    input.parentNode.insertBefore(wrapper, input);
+    wrapper.append(input);
+
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'password-toggle';
+    button.setAttribute('aria-label', 'Показать пароль');
+    button.setAttribute('title', 'Показать пароль');
+    button.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.5-6 10-6 10 6 10 6-3.5 6-10 6S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></svg>';
+    wrapper.append(button);
+    input.dataset.passwordToggleReady = '1';
+
+    button.addEventListener('click', () => {
+      const isVisible = input.type === 'text';
+      input.type = isVisible ? 'password' : 'text';
+      button.classList.toggle('is-active', !isVisible);
+      button.setAttribute('aria-label', isVisible ? 'Показать пароль' : 'Скрыть пароль');
+      button.setAttribute('title', isVisible ? 'Показать пароль' : 'Скрыть пароль');
+    });
+  });
+}
+
+initializePasswordToggles();
+function initializeFileInputs() {
+  document.querySelectorAll('.admin-page input[type="file"]').forEach((input) => {
+    if (input.dataset.fileInputReady === '1') return;
+
+    const wrapper = document.createElement('span');
+    wrapper.className = 'file-field';
+    input.parentNode.insertBefore(wrapper, input);
+    wrapper.append(input);
+
+    const button = document.createElement('span');
+    button.className = 'file-field__button';
+    button.textContent = 'Выбрать файл';
+
+    const label = document.createElement('span');
+    label.className = 'file-field__name';
+    label.textContent = 'Файл не выбран';
+
+    wrapper.append(button, label);
+    input.dataset.fileInputReady = '1';
+
+    input.addEventListener('change', () => {
+      label.textContent = input.files && input.files[0] ? input.files[0].name : 'Файл не выбран';
+    });
+  });
+}
+
+initializeFileInputs();

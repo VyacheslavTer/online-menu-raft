@@ -855,7 +855,95 @@ textarea {
   display: inline-flex;
   color: var(--accent);
   font-weight: 800;
-}.admin-card label {
+}
+
+.file-field {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.file-field input[type="file"] {
+  width: 0.1px;
+  height: 0.1px;
+  position: absolute;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.file-field__button {
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.file-field:focus-within .file-field__button,
+.file-field:hover .file-field__button {
+  border-color: rgba(47, 128, 237, 0.35);
+  background: rgba(47, 128, 237, 0.1);
+  color: var(--accent);
+}
+
+.file-field__name {
+  color: var(--muted);
+  font-weight: 800;
+}
+
+.password-field {
+  position: relative;
+  display: block;
+}
+
+.password-field input {
+  padding-right: 48px;
+}
+
+.password-toggle {
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--muted);
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.password-toggle:hover,
+.password-toggle:focus-visible,
+.password-toggle.is-active {
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+}
+
+.password-toggle svg {
+  width: 21px;
+  height: 21px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.admin-card label {
   display: grid;
   gap: 7px;
   margin-bottom: 14px;

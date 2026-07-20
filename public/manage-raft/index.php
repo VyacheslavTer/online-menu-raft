@@ -139,6 +139,11 @@ try {
             $faviconPath = '';
         }
 
+        $smtpPassword = (string) ($_POST['smtp_password'] ?? '');
+        if ($smtpPassword === '') {
+            $smtpPassword = (string) ($currentSettings['smtp_password'] ?? '');
+        }
+
         $settings->setMany([
             'site_name' => $_POST['site_name'] ?? '',
             'site_name_kz' => $_POST['site_name_kz'] ?? '',
@@ -156,6 +161,13 @@ try {
             'telegram_url' => $_POST['telegram_url'] ?? '',
             'whatsapp_url' => $_POST['whatsapp_url'] ?? '',
             'favicon_path' => $faviconPath,
+            'smtp_enabled' => !empty($_POST['smtp_enabled']) ? '1' : '0',
+            'smtp_host' => $_POST['smtp_host'] ?? '',
+            'smtp_port' => $_POST['smtp_port'] ?? '587',
+            'smtp_username' => $_POST['smtp_username'] ?? '',
+            'smtp_password' => $smtpPassword,
+            'smtp_from_email' => $_POST['smtp_from_email'] ?? '',
+            'smtp_from_name' => $_POST['smtp_from_name'] ?? 'raft menu',
         ]);
         $_SESSION['notice'] = 'Настройки обновлены.';
         redirect('/manage-raft/?action=settings');
@@ -236,13 +248,12 @@ if ($action === 'settings') {
                 <label>SMTP сервер<input name="smtp_host" placeholder="smtp.mail.ru" value="<?= e($allSettings['smtp_host'] ?? '') ?>"></label>
                 <label>Порт<input name="smtp_port" inputmode="numeric" placeholder="465" value="<?= e($allSettings['smtp_port'] ?? '587') ?>"></label>
                 <label>Логин SMTP<input name="smtp_username" value="<?= e($allSettings['smtp_username'] ?? '') ?>" autocomplete="username"></label>
-                <label>Пароль SMTP<input type="password" name="smtp_password" value="<?= e($allSettings['smtp_password'] ?? '') ?>" autocomplete="new-password"></label>
+                <label>Пароль SMTP<input type="password" name="smtp_password" placeholder="<?= !empty($allSettings['smtp_password']) ? 'Сохранен, оставьте пустым без изменений' : '' ?>" autocomplete="new-password"></label>
                 <label>Email отправителя<input type="email" name="smtp_from_email" placeholder="name@example.com" value="<?= e($allSettings['smtp_from_email'] ?? '') ?>"></label>
                 <label>Имя отправителя<input name="smtp_from_name" value="<?= e($allSettings['smtp_from_name'] ?? 'raft menu') ?>"></label>
             </div>
             <?php $adminUser = $auth->user(); ?>
             <h2>Доступ в админку</h2>
-            <p class="form-hint">Email и пароль меняются в базе. Пароль из <code>config.local.php</code> нужен только при первом создании админа.</p>
             <label>Email администратора<input type="email" name="admin_email" value="<?= e($adminUser['email'] ?? '') ?>" autocomplete="username"></label>
             <div class="form-grid">
                 <label>Текущий пароль<input type="password" name="admin_current_password" autocomplete="current-password"></label>
@@ -393,7 +404,7 @@ function admin_absolute_url(string $query = ''): string
 {
     $scheme = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
     $host = (string) ($_SERVER['HTTP_HOST'] ?? 'localhost');
-    return $scheme . '://' . $host . '/manage-raft/' . ltrim($query, '?');
+    return $scheme . '://' . $host . '/manage-raft/' . ($query !== '' ? '?' . ltrim($query, '?') : '');
 }
 
 function send_password_reset_email(PDO $pdo, string $email, string $url): void
@@ -545,6 +556,10 @@ function update_admin_account(PDO $pdo, Auth $auth, array $input): void
 }
 function render_admin_header(string $title, Auth $auth): void
 {
+    $settings = new Settings(db());
+    $faviconPath = $settings->get('favicon_path');
+    $cssVersion = is_file(__DIR__ . '/../assets/app.css') ? (string) filemtime(__DIR__ . '/../assets/app.css') : '1';
+    $jsVersion = is_file(__DIR__ . '/../assets/app.js') ? (string) filemtime(__DIR__ . '/../assets/app.js') : '1';
     ?>
     <!doctype html>
     <html lang="ru">
@@ -552,8 +567,11 @@ function render_admin_header(string $title, Auth $auth): void
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title><?= e($title) ?> · Админка</title>
-        <link rel="stylesheet" href="/assets/app.css">
-        <script src="/assets/app.js" defer></script>
+        <?php if ($faviconPath): ?>
+            <link rel="icon" href="<?= e(asset_url($faviconPath)) ?>">
+        <?php endif; ?>
+        <link rel="stylesheet" href="/assets/app.css?v=<?= e($cssVersion) ?>">
+        <script src="/assets/app.js?v=<?= e($jsVersion) ?>" defer></script>
     </head>
     <body class="admin-page">
         <header class="admin-header">
@@ -718,4 +736,3 @@ function render_item_form(MenuRepository $repo, ?array $item, ?int $prefillParen
     </main>
     <?php
 }
-
